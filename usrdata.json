@@ -1,8 +1,14 @@
 [
     {
-        "device_id": "/lib57530d1a5dc445a4.so",
-        "key": "Gabrie8lll",
-        "expirydate": "29-10-2026",
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "device456",
+        "key": "key67890",
+        "expirydate": "15-12-2026",
         "Allowoffline": false
     }
 ]
